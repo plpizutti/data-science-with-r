@@ -8,5 +8,14 @@ GIT Instructions for the project:
 - to push new branches to github repo:
   git push --set-upstream origin "branch-name"
 
+- to push new files / changes:
+  Git Bash:
+  git add "file-name.ext"
+  git commit -m "message"
+  git push
+
+  Github:
+  Merge changes into main
+
 - After uploading the changes to the main branch:
   delete branch 
